@@ -1,0 +1,32 @@
+Organisatorisches
+=================
+
+Literatur
+---------
+
+-   Israel Koren, C. Mani Krishna. Fault-Tolerant Systems, Morgan
+    Kaufman 2007.
+    -   Hauptliteratur
+
+-   Pankaj Jalote. Fault-Tolerance in Distributed Systems, Prentice
+    Hall, 1994.
+-   Jean-Claude Geffroy, Gilles Motet. Design of Dependable Computing
+    Systems, Kluwer Academic Publishers, 2002.
+    -   sehr textlastig
+
+-   D. P. Siewiorek, R.S. Swarz. Reliable Computer Systems, Digital
+    Press, 1992.
+    -   Sehr veraltet (Fokus auf Hardware), aber interessant Fallstudien
+
+Übungszettel
+------------
+
+-   Liste mit Vorrechungsanmeldung, zählt als aktive Mitarbeit
+
+Slide Sets
+----------
+
+-   [Parhami
+    1](http://www.ece.ucsb.edu/~parhami/pres_folder/f33-book-depend-pres-pt1.pdf)
+    Slide 12-34
+
